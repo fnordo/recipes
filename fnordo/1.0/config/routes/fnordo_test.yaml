@@ -1,0 +1,4 @@
+fnordo_test_bundle:
+    resource: '@FnordoTestBundle/Controller/TestController.php'
+    prefix: /test
+    type: annotation

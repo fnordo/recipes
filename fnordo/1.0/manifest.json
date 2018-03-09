@@ -1,0 +1,9 @@
+{
+  "bundles": {
+    "Fnordo\\Bundle\\TestBundle\\TestBundle": ["all"]
+  },
+  "copy-from-recipe": {
+    "config/": "%CONFIG_DIR%/"
+  },
+  "aliases": ["fnordo-test"]
+}

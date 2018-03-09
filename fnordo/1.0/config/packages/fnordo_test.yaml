@@ -1,0 +1,4 @@
+fnordo_test:
+    foo:
+        bar: 'baz'
+        boo: ~
