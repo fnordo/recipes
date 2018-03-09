@@ -1,6 +1,6 @@
 {
   "bundles": {
-    "Fnordo\\Bundle\\TestBundle\\TestBundle": ["all"]
+    "Fnordo\\TestBundle\\FnordoTestBundle": ["all"]
   },
   "copy-from-recipe": {
     "config/": "%CONFIG_DIR%/"
